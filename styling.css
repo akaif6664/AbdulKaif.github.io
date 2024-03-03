@@ -164,8 +164,8 @@ footer{
     margin-bottom: 8px;
     line-height: 20px;
 }
-.Certificate-link{
-    text-decoractiion: none;
+.Certificate-link: a{
+    text-decoration: none;
 }
 .platform{
     border: 1px solid grey;
